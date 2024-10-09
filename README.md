@@ -1,4 +1,4 @@
-# corpus
+# Hittite corpus
 
 This is a project for developing a corpus of Hittite clauses
 
