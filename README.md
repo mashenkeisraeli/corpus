@@ -1,7 +1,36 @@
-# Hittite corpus
+# Hittite Emotions in Context
 
-This is a project for developing a corpus of Hittite clauses. A search interface can be found at: https://hittitecorpus.com/
+This GitBook-ready Markdown corpus was generated from the CSV file `Hittite Emotions in Context - CORPUS.csv`.
 
-Hittite is an Anatolian language of Indo-European family, the oldest Indo-European language attested in writing between 1800 and 1200 ВСЕ. It was spoken on the territory of modern Turkey, with the centre in Hattusa (modern-day Bogazkoy), in the II millennium BCE. The Hittite Empire represents one of the Great Kingdoms of the Late Bronze age, and thus functioned as a very influential force in the Ancient Near East of the II millennium BCE.
+- Total contexts: **1,993**
+- Genres: **6**
 
-Corpus of Hittite letters: https://github.com/mashenkeisraeli/corpus/tree/main/materials/letters
+## Genres
+
+- **Gebete**: 504 contexts
+- **Historical texts**: 44 contexts
+- **Instructions**: 34 contexts
+- **Letters**: 185 contexts
+- **Myths**: 639 contexts
+- **Rituale**: 587 contexts
+
+## How this package is organized
+
+- `README.md` is the landing page.
+- `SUMMARY.md` defines the GitBook table of contents.
+- Each genre has its own folder and overview page.
+- Each CSV row has been converted into its own Markdown page (`ctx-XXXX.md`).
+
+## Search tips
+
+GitBook search will work best because each context is a separate page containing:
+
+- lemma
+- wordform
+- emotional domain
+- publication and line information
+- context and translation fields
+
+## Source columns mapped into each page
+
+Genre, CTH, Publication, Lines, Paragraph, Wordform, Semantics, Emotional Domain, Lemma, Context, Full Location, Full Context, Translation, Addenda, Textcorpora, TLGdig, Syllabic context, Master Context, Original Translation, English Translation.
