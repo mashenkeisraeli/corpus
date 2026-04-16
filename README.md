@@ -12,7 +12,7 @@ Hittite Emotions in Context
 - **Myths**: 639 contexts
 - **Rituale**: 587 contexts
 
-## Emotional fomains
+## Emotional domains
 
 - ANGER
 - FEAR
