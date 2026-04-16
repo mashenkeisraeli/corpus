@@ -1,6 +1,7 @@
 # Summary
 
 * [Hittite Emotions in Context](README.md)
+* [Rendering Test](test.md)
 
 * [Gebete](gebete/README.md)
     * [0001 · ḫaršalant- · ANGER](gebete/ctx-0001.md)
