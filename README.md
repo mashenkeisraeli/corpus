@@ -1,7 +1,8 @@
 # Hittite corpus
 
-Hittite Emotions in Context
+The Database of Hittite Emotional Contexts (DHEC)
 - Total contexts: **1,993**
+[Click to get to the files](https://github.com/mashenkeisraeli/corpus/tree/main/emotions)
 
 ## Genres
 
