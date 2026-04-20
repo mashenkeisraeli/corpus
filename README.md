@@ -32,4 +32,3 @@ The dataset contains:
 - publication and line information
 - context and translation fields
 
-Genre, CTH, Publication, Lines, Paragraph, Wordform, Semantics, Emotional Domain, Lemma, Context, Full Location, Full Context, Translation, Addenda, Textcorpora, TLGdig, Syllabic context, Master Context, Original Translation, English Translation.
