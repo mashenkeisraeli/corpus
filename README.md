@@ -6,12 +6,12 @@ The Database of Hittite Emotional Contexts (DHEC)<br>
 
 ## Genres
 
-- **Gebete**: 504 contexts
+- **Prayers**: 504 contexts
 - **Historical texts**: 44 contexts
 - **Instructions**: 34 contexts
 - **Letters**: 185 contexts
 - **Myths**: 639 contexts
-- **Rituale**: 587 contexts
+- **Rituals**: 587 contexts
 
 ## Emotional domains
 
