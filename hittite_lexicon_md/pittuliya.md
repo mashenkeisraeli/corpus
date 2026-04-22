@@ -4,8 +4,6 @@ description: anxiety, fear
 
 # pittuliya-
 
-## pittuliya-
-
 ### Example 1
 
 **Source:** CTH 378 (LNH) KUB 14.11+ KUB 14.10 Vs. i 6'-12' (12-18)
@@ -39,7 +37,7 @@ kā-š MU-20<sup>KAM</sup> kuit=kan _INA_ ŠÀ KUR <sup>URU</sup>_ḪATTI_ akki
 | NÍ.TE-az-ma-za       | pít-tu-li-ia-an | _Ú-U_\[_L_] | tar-uḫ-mi         |
 | -------------------- | --------------- | ----------- | ----------------- |
 | NÍ.TE-az=ma=za       | píttuliya-n     | _ŪL_       | taruḫ-mi          |
-| body.abl.sd=but=refl | anxiety-acc.sg  | not         | be.mighty-1sg.prs |
+| body.abl.sg=but=refl | anxiety-acc.sg  | not         | be.mighty-1sg.prs |
 
 _‘This is the 20th year, that (people) die in the country of Ḫatti. The plague will not be removed from the land of Ḫatti. Though I cannot overcome the torment emanating from my heart, and I can no longer overcome the fear emanating from my body.’_
 
@@ -51,7 +49,7 @@ _‘This is the 20th year, that (people) die in the country of Ḫatti. The plag
 nu-mu É-_IA_ i-na-ni pé-ra-an pít-tu-li-ya-aš É-er ki-ša-at nu-mu pít-tu-li-ya-i pé-ra-an iš-ta-an-za-aš-mi-iš ta-ma-at-ta pé-e-di za-ap-pí-iš-ke-ez-zi
 
 **Broad transcription:**\
-nu=mu É-_IA_ inan-i peran pittuliya-aš É-er kiš-at nu=mu pittuliya-i peran ištanza-š=mi-š tamatta pēd-i zappi-ške-zzi
+nu=mu É-_IA_ inani peran pittuliyaš É-er kiš-at nu=mu pittuliyai peran ištanzaš=mi-š tamatta pēdi zappiškezzi
 
 | nu-mu           | É-_IA_          | i-na-ni        | pé-ra-an    |
 | --------------- | --------------- | -------------- | ----------- |
