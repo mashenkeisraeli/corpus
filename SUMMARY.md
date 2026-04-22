@@ -2074,6 +2074,6 @@
   * [wašt-](hittite_lexicon_md/wast.md)
   * [wāšu-](hittite_lexicon_md/wasu.md)
   * [wēkk-](hittite_lexicon_md/wekk.md)
-  * [werite-](hittite_lexicon_md/werite.md)
+  * [werit(e)-/ warit(a)-](hittite_lexicon_md/werite.md)
   * [zammurāi-](hittite_lexicon_md/zammurai.md)
   * [zartiya-](hittite_lexicon_md/zartiya.md)
