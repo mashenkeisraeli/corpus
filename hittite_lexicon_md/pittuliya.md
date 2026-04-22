@@ -12,7 +12,7 @@ description: anxiety, fear
 ka-⸢a⸣-aš MU-20<sup>KAM</sup> ku-it-kán _I-NA_ ŠÀ KUR <sup>URU</sup>_ḪA-AT-TI_ ak-ki-iš-ke-et-ta-ri nu-kán _IŠTU_ KUR <sup>URU</sup>_ḪA-AT-TI_ ḫi-in-ká\[n …a] ar-ḫa _Ú-UL_-pát ta-ru-up-ta-ri \[am-m]u-uk-ma-az ŠÀ-az la-aḫ-la-aḫ-ḫi-ma-an NÍ.TE-az-ma-za pít-tu-li-ia-an _Ú-U_\[_L_] tar-uḫ-mi
 
 **Broad transcription:**\
-kā-š MU-20<sup>KAM</sup> kuit=kan _INA_ ŠÀ KUR <sup>URU</sup>_ḪATTI_ akkiškettari nu=kan _IŠTU_ KUR <sup>URU</sup>_ḪATTI_ ḫinkan arḫa _ŪL_=pát taruptari ammuk=ma=z ŠÀ-az laḫlaḫḫiman NÍ.TE-az=ma=za píttuliyan _ŪL_ taruḫmi
+kāš MU-20<sup>KAM</sup> kuit=kan _INA_ ŠÀ KUR <sup>URU</sup>_ḪATTI_ akkiškettari nu=kan _IŠTU_ KUR <sup>URU</sup>_ḪATTI_ ḫinkan arḫa _ŪL_=pát taruptari ammuk=ma=z ŠÀ-az laḫlaḫḫiman NÍ.TE-az=ma=za píttuliyan _ŪL_ taruḫmi
 
 | ka-⸢a⸣-aš   | MU-20<sup>KAM</sup> | ku-it-kán | _I-NA_ | ŠÀ           | KUR         |
 | ----------- | ------------------- | --------- | ------ | ------------ | ----------- |
@@ -49,7 +49,7 @@ _‘This is the 20th year, that (people) die in the country of Ḫatti. The plag
 nu-mu É-_IA_ i-na-ni pé-ra-an pít-tu-li-ya-aš É-er ki-ša-at nu-mu pít-tu-li-ya-i pé-ra-an iš-ta-an-za-aš-mi-iš ta-ma-at-ta pé-e-di za-ap-pí-iš-ke-ez-zi
 
 **Broad transcription:**\
-nu=mu É-_IA_ inani peran pittuliyaš É-er kiš-at nu=mu pittuliyai peran ištanzaš=mi-š tamatta pēdi zappiškezzi
+nu=mu É-_IA_ inani peran pittuliyaš É-er kišat nu=mu pittuliyai peran ištanzaš=miš tamatta pēdi zappiškezzi
 
 | nu-mu           | É-_IA_          | i-na-ni        | pé-ra-an    |
 | --------------- | --------------- | -------------- | ----------- |
