@@ -28,10 +28,10 @@ _‘\[To your] right run the fears, to your left the horrors run’_
 **Syllabic transliteration:** DINGIR<sup>MEŠ</sup>-aš-ma-\[m]u ⌈ar⌉-n\[u-um-mar] _Ú-UL_ ZI-an-za e-eš-ta a-pé-e-da-ni \[…] pé-ra-an ú-e-ri-te-iš-ša-\[a]n-za e-šu-u\[n]\
 **Broad transcription:** DINGIR<sup>MEŠ</sup>-aš=ma=mu arnummar _UL_ ZI-anz(a) ēšta apēdani\[...] peran weriteššanz(a) ešu\[n]
 
-| DINGIR<sup>MEŠ</sup>-aš-ma-\[m]u | ⌈ar⌉-n\[u-um-mar]      | _Ú-UL_ | ZI-an-za    | e-eš-ta    |
-| -------------------------------- | ---------------------- | ------ | ----------- | ---------- |
-| DINGIR<sup>MEŠ</sup>-aš=ma=mu    | arnu-mmar              | _UL_   | ZI-anz(a)   | ēš-ta      |
-| god-dat.pl=but=I.1sg.dat         | offering-gerund.nom.sg | not    | soul-nom.sg | be-3sg.pst |
+| DINGIR<sup>MEŠ</sup>-aš-ma-\[m]u | ⌈ar⌉-n\[u-um-mar]     | _Ú-UL_ | ZI-an-za    | e-eš-ta    |
+| -------------------------------- | --------------------- | ------ | ----------- | ---------- |
+| DINGIR<sup>MEŠ</sup>-aš=ma=mu    | arnu-mmar             | _UL_   | ZI-anz(a)   | ēš-ta      |
+| god-dat.pl=but=I.1sg.dat         | removal-gerund.nom.sg | not    | soul-nom.sg | be-3sg.pst |
 
 | a-pé-e-da-ni \[…] | pé-ra-an    | ú-e-ri-te-iš-ša-\[a]n-za | e-šu-u\[n] |
 | ----------------- | ----------- | ------------------------ | ---------- |
