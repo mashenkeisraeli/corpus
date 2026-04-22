@@ -1,5 +1,5 @@
 ---
-description: to tremble
+description: to tremble; fear
 ---
 
 # katkattiya-
