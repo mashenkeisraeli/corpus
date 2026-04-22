@@ -10,10 +10,10 @@ description: to tremble; fear
 **Syllabic transliteration:** ⸢<sup>d</sup>10-aš⸣-\[m]a-an-na-aš-kán <sup>d</sup>IŠTAR-aš<sup>!</sup>-ša wa-an-ti-m\[u-uš] \[te-e]t<sup>?</sup>-ḫi-mu-uš-ša A-ni<sup>!</sup>-it ar-ḫa na-wi₅ pa-a-an-zi \[ ]-ia-aš-ša-⸢an⸣ na-wi<sub>5</sub> ú-wa-ú-e-ni gi-nu-wa-an-na-aš-kán \[ k]at-kat-ti-iš-ke-ez-zi SAG.DU-aš-ma-an-na-aš <sup>LÚ</sup>BÁḪAR-aš\[<sup>GIŠ</sup>UMB]IN GIM-an ú-e-ḫa-at-ta-ri\
 **Broad transcription:** <sup>d</sup>10-aš=ma=nnaš=kán <sup>d</sup>IŠTAR-ašš=a wantimuš tetḫimušš=a A-nit arḫa nawi pānzi \[...]-ya=ššan nawi uwaweni ginuwa=nnaš=kán \[...] katkattiškezzi SAG.DU-aš=ma=nnaš <sup>LÚ</sup>BÁḪAR-aš <sup>GIŠ</sup>UMBIN GIM-an weḫattari
 
-| ⸢<sup>d</sup>10-aš⸣-\\\[m]a-an-na-aš-kán | <sup>d</sup>IŠTAR-aš<sup>!</sup>-ša |
-| ---------------------------------------- | ----------------------------------- |
-| <sup>d</sup>10-aš=ma=nnaš=kán            | <sup>d</sup>IŠTAR-ašš=a             |
-| Storm.God.gen.sg=but=we.1pl.acc=loc      | goddess.Istar.gen.sg=and            |
+| ⸢<sup>d</sup>10-aš⸣-\[m]a-an-na-aš-kán | <sup>d</sup>IŠTAR-aš<sup>!</sup>-ša |
+| -------------------------------------- | ----------------------------------- |
+| <sup>d</sup>10-aš=ma=nnaš=kán          | <sup>d</sup>IŠTAR-ašš=a             |
+| Storm.God.gen.sg=but=we.1pl.acc=loc    | goddess.Istar.gen.sg=and            |
 
 | wa-an-ti-m\[u-uš]      | \[te-e]t<sup>?</sup>-ḫi-mu-uš-ša | A-ni<sup>!</sup>-it | ar-ḫa  | na-wi₅  | pa-a-an-zi |
 | ---------------------- | -------------------------------- | ------------------- | ------ | ------- | ---------- |
