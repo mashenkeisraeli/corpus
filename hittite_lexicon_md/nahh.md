@@ -4,7 +4,6 @@
 
 **Source:** CTH 389.2 (NH) KUB 36.91 Vs. 7'\
 **Syllabic transliteration:** na-aš DINGIR<sup>MEŠ</sup>-aš _Ú-UL_ na-a\[ḫ-ḫa-a]n-⌈za⌉\
-\
 **Broad transcription:** n=aš DINGIR<sup>MEŠ</sup>-aš _UL_ naḫḫanz(a)
 
 | na-aš            | DINGIR<sup>MEŠ</sup>-aš | _Ú-UL_ | na-a\\\[ḫ-ḫa-a]n-⌈za⌉  |
