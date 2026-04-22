@@ -4,8 +4,6 @@ description: to scare; to frighten
 
 # kurkuriya-
 
-## kurkuriya-
-
 ### Example 1
 
 **Source:** CTH 446 (MH) KUB 7.41 Vs. 14-15\
