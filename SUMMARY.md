@@ -2002,7 +2002,7 @@
     * [ctx-1991](emotions/rituale/ctx-1991.md)
     * [ctx-1992](emotions/rituale/ctx-1992.md)
     * [ctx-1993](emotions/rituale/ctx-1993.md)
-* [Emotionally rich contexts in Hittite](hittite_lexicon_md/README.md)
+* [Emotionally rich contexts](hittite_lexicon_md/README.md)
   * [Summary](hittite_lexicon_md/SUMMARY.md)
   * [āḫra-](hittite_lexicon_md/ahra.md)
   * [alalamniya-](hittite_lexicon_md/alalamniya.md)
