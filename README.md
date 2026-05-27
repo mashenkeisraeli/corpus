@@ -1,12 +1,10 @@
 ---
-description: >-
-  Akkadian and Hittite Emotions in Context (AHEC) – Towards a Lexicon of
-  Emotions in Cuneiform Texts from Ancient Mesopotamia and Hittite Anatolia
+icon: grid-round-5
 ---
 
 # Corpus of Hittite Emotions
 
-The Database of Hittite Emotional Contexts (DHEC)
+Database of Hittite Emotional Contexts (DHEC)
 
 To cite: Molina, M. (2025). Hittite Emotional Contexts (Version 1.3.2) \[Data set].<br>
 
