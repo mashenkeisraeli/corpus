@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hittite corpus](README.md)
+* [Corpus of Hittite Emotions](README.md)
 * [Hittite Emotions in Context](emotions/README.md)
   * [Summary](emotions/SUMMARY.md)
   * [Gebete](emotions/gebete/README.md)
