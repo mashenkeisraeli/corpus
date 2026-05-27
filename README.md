@@ -18,13 +18,13 @@ Back to [Hittite emotions for AHEC](https://mashenkeisraeli.github.io/hittite_em
 
 ## Emotional domains in Hittite texts
 
-* ANGER
-* FEAR
+* ANGER (including Pride)
+* FEAR (including Surprise, and Respect)
 * DISTRESS (including Sadness, Guilt, and Dissatisfaction)
 * ENMITY (including Envy, Despair, Disgust, and Shame)
 * COMFORT (including Mercy as a part of Compassion, and Contentment)
 * JOY
-* LOVE
+* LOVE (including Desire)
 
 ## Emotional domains compared to Akkadian
 
