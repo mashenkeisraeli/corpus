@@ -22,11 +22,9 @@ Back to [Hittite emotions for AHEC](https://mashenkeisraeli.github.io/hittite_em
 * FEAR
 * DISTRESS (including Sadness, Guilt, and Dissatisfaction)
 * ENMITY (including Envy, Despair, Disgust, and Shame)
-* COMFORT (including Mercy as a part of Compassion and Contentment)
+* COMFORT (including Mercy as a part of Compassion, and Contentment)
 * JOY
 * LOVE
-
-
 
 ## Emotional domains compared to Akkadian
 
