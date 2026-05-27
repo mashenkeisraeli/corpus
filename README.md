@@ -28,7 +28,7 @@ Back to [Hittite emotions for AHEC](https://mashenkeisraeli.github.io/hittite_em
 
 ## Emotional domains compared to Akkadian
 
-The list of the emotional macrodomains supported by AHEC in the [Guidelines](https://github.com/mashenkeisraeli/hittite_emotions/blob/main/Guidelines.pdf) differs from the list of Emotional domains in the Hittite texts (above), so that the domains **Despair, Disgust, Sadness, Guilt, Shame, Dissatisfaction, Envy, Compassion, and Contentment** in Hittite material are combined into domains of **Distress, Enmity, and Comfort**.<br>
+The list of the emotional macrodomains supported by AHEC in the [Guidelines](https://github.com/mashenkeisraeli/hittite_emotions/blob/main/Guidelines.pdf) differs from the list of Emotional domains in the Hittite texts (above), so that the domains **Pride, Despair, Disgust, Sadness, Guilt, Shame, Dissatisfaction, Envy, Compassion,** and **Contentment** in Hittite material are combined into domains of **Anger, Distress, Enmity,** and **Comfort**. **Mercy** is considered a subterm under **Compassion.**<br>
 
 ## Structure of the dataset
 
