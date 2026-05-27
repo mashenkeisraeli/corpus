@@ -1,7 +1,3 @@
----
-icon: grid-round-5
----
-
 # Corpus of Hittite Emotions
 
 Database of Hittite Emotional Contexts (DHEC)
