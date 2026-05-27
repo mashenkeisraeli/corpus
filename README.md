@@ -2,7 +2,7 @@
 
 Database of Hittite Emotional Contexts (DHEC)
 
-To cite: Molina, M. (2025). Hittite Emotional Contexts (Version 1.3.2) \[Data set].<br>
+To cite: Molina, M. (2025). Hittite Emotional Contexts (Version 1.3.2) \[Data set]. https://mashenkeisraeli.github.io/hittite\_emotions/<br>
 
 * Total contexts: **1,993**\
   [Click to get to the files](https://github.com/mashenkeisraeli/corpus/tree/main/emotions)
